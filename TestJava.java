@@ -4,7 +4,11 @@ class TestJava{
 		System.out.println("Hello World!");
 	}
 	
-	pbulic void test(){
-		System.out.println("test!");
+	pbulic void test1(){
+		System.out.println("test1");
+	}
+	
+	pbulic void test2(){
+		System.out.println("test2");
 	}
 }
