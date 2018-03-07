@@ -11,4 +11,8 @@ class TestJava{
 	pbulic void test2(){
 		System.out.println("test2");
 	}
+	
+	pbulic void test3(){
+		System.out.println("test3");
+	}
 }
